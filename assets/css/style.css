@@ -11,8 +11,12 @@ body {
     color: #333;
 }
 
-.section {}
-.section-headline {}
+.section {
+    padding: 30px 15px;
+}
+.section-headline {
+    
+}
 
 .about {}
 .about-image {}
