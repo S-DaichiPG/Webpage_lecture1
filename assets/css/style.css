@@ -11,9 +11,14 @@ body {
     color: #333;
 }
 
-/* sectionの設定 */
+/* 
+section
+ */
 .section {
     padding: 30px 15px;
+}
+.section.section-secoundry{
+    background: #efefef;
 }
 .section-headline {
     text-align: center;
@@ -22,8 +27,20 @@ body {
     margin: 0 0 40px;
 }
 
-.about {}
-.about-image {}
-.about-caption {}
-.about-headline {}
-.about-description {}
+/* 
+about
+ */
+.about {
+    margin: 0;
+    display: flex;   
+}
+
+/* .about-image {} */
+.about-caption {
+    padding-left: 15px;
+}
+.about-headline {
+    margin: 0, 0, 20px;
+    font-size: 30px;
+}
+/* .about-description {} */

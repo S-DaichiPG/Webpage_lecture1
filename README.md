@@ -3,7 +3,7 @@
 ### 学習に使わせていただいたもの
 ①【HTML/CSS】実践！Webサイト作成から公開までの過程を解説！ <br/>
 
-進捗度合い：19:17/2:25:34
+進捗度合い：23:00/2:25:34
 https://youtu.be/Hbxulm8iXSA?si=DR2Vmd8DEat85cNJ
 
 ### Memo
@@ -42,7 +42,7 @@ https://youtu.be/Hbxulm8iXSA?si=DR2Vmd8DEat85cNJ
 * <details> <summary>セクショニング・コンテンツの例</summary> 
     aside, article, navなどのタグが該当する <br/>
     ※＜section＞と同様でh1が実質レベルが1個下がる仕様
-</details>
+    </details>
 
 * ＜figure＞ 画像とそれを説明するためのタグ 15:13～
 
@@ -57,4 +57,10 @@ https://youtu.be/Hbxulm8iXSA?si=DR2Vmd8DEat85cNJ
 * 動画内の17:18～18:05あたりに出てくるショートカットキーや同時選択は何度も練習してみること！
 
 * marginの記載方法について 19:15~
+
+* display: flex：子要素に対して要素を横並びに設定できる
+
+* 22:53～ なるべく同じclassを拡張させながら何回も使うやり方をするとCSSは綺麗になり易い。
+
+* 
 </details>
