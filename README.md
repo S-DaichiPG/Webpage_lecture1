@@ -3,7 +3,8 @@
 ### 学習に使わせていただいたもの
 ①【HTML/CSS】実践！Webサイト作成から公開までの過程を解説！ <br/>
 
-進捗度合い：23:00/2:25:34
+進捗度合い：26:29/2:25:34
+※Featureの背景色が上手く反映されていないので修正を行う
 https://youtu.be/Hbxulm8iXSA?si=DR2Vmd8DEat85cNJ
 
 ### Memo
@@ -62,5 +63,6 @@ https://youtu.be/Hbxulm8iXSA?si=DR2Vmd8DEat85cNJ
 
 * 22:53～ なるべく同じclassを拡張させながら何回も使うやり方をするとCSSは綺麗になり易い。
 
-* 
+* 24:30～ アイコン探しに利用するサイト ※ライセンスの内容に注意！
+https://www.flaticon.com/ 
 </details>
